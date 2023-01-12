@@ -23,7 +23,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity
 {
-
+    TextView indiSignUp;
     EditText mail;
     EditText password;
     Button login;

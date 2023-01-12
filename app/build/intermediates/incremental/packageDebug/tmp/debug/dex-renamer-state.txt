@@ -1,0 +1,4 @@
+#Thu Jan 12 18:40:59 IST 2023
+base.0=C\:\\Users\\shubh\\AndroidStudioProjects\\Sociofix\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
